@@ -1,0 +1,296 @@
+{
+  "menu": [
+    {
+      "id": "item-1",
+      "name": "Masala Dosa",
+      "category": "South Indian",
+      "price": 60,
+      "description": "Crispy golden crepe made from fermented lentil & rice batter, filled with spiced potato masala, served with 2 types of coconut chutney and hot sambar.",
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 15
+    },
+    {
+      "id": "item-2",
+      "name": "Chicken Biryani",
+      "category": "Biryani",
+      "price": 180,
+      "description": "Traditional dum biryani slow-cooked with tender marinated chicken pieces, aged basmati rice, mint, saffron, and aromatic ground spices. Served with cooling raita & salan.",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&auto=format&fit=crop&q=80",
+      "isVeg": false,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 25
+    },
+    {
+      "id": "item-3",
+      "name": "Veg Fried Rice",
+      "category": "Chinese",
+      "price": 120,
+      "description": "Wok-tossed long-grain rice with crisp carrots, cabbage, french beans, spring onions, garlic, and light seasoning with soy.",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": false,
+      "isAvailable": true,
+      "prepTimeMinutes": 20
+    },
+    {
+      "id": "item-4",
+      "name": "Idli (2 pieces)",
+      "category": "South Indian",
+      "price": 40,
+      "description": "Soft, melt-in-mouth steamed rice cakes accompanied by traditional Karnataka hotel sambar, fresh coconut chutney, and roasted gram chutney.",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 10
+    },
+    {
+      "id": "item-5",
+      "name": "Mysore Masala Dosa",
+      "category": "South Indian",
+      "price": 75,
+      "description": "Crisp outside, soft inside dosa generously spread with fiery red garlic chutney, fresh butter, and fragrant spiced potato filling.",
+      "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 15
+    },
+    {
+      "id": "item-6",
+      "name": "Medu Vada (2 pieces)",
+      "category": "South Indian",
+      "price": 45,
+      "description": "Deep-fried golden lentil donuts crispy on the outside, fluffy within, tempered with black pepper, cumin seeds, and fresh curry leaves.",
+      "image": "https://images.unsplash.com/photo-1626777553635-be025dfa2d1d?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": false,
+      "isAvailable": true,
+      "prepTimeMinutes": 10
+    },
+    {
+      "id": "item-7",
+      "name": "Paneer Butter Masala",
+      "category": "North Indian",
+      "price": 170,
+      "description": "Fresh malai paneer cubes simmered in a luscious, mildly sweet and savory butter-infused tomato cashew gravy with aromatic kasuri methi.",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 20
+    },
+    {
+      "id": "item-8",
+      "name": "Butter Naan (2 pieces)",
+      "category": "North Indian",
+      "price": 60,
+      "description": "Clay tandoor baked leavened flatbreads brushed generously with pure dairy butter.",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": false,
+      "isAvailable": true,
+      "prepTimeMinutes": 12
+    },
+    {
+      "id": "item-9",
+      "name": "Dal Tadka",
+      "category": "North Indian",
+      "price": 110,
+      "description": "Yellow toor dal slow-cooked and tempered with smoky cumin seeds, garlic, red dry chilies, and pure ghee.",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": false,
+      "isAvailable": true,
+      "prepTimeMinutes": 15
+    },
+    {
+      "id": "item-10",
+      "name": "Mutton Biryani",
+      "category": "Biryani",
+      "price": 240,
+      "description": "Rich royal dum biryani cooked with tender local baby mutton, fragrant whole spices, caramelized onions, and saffron infused basmati rice.",
+      "image": "https://images.unsplash.com/photo-1545247181-516773ca838b?w=800&auto=format&fit=crop&q=80",
+      "isVeg": false,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 30
+    },
+    {
+      "id": "item-11",
+      "name": "Veg Dum Biryani",
+      "category": "Biryani",
+      "price": 140,
+      "description": "Seasonal cauliflower florets, peas, carrots, and potatoes marinated in thick curd and spices, layered with saffron rice.",
+      "image": "https://images.unsplash.com/photo-1642821373181-696a54913e9a?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": false,
+      "isAvailable": true,
+      "prepTimeMinutes": 20
+    },
+    {
+      "id": "item-12",
+      "name": "Gobi Manchurian (Dry)",
+      "category": "Chinese",
+      "price": 110,
+      "description": "Crispy battered cauliflower florets stir-fried with finely chopped ginger, garlic, green chilies, coriander, and savory soy.",
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 18
+    },
+    {
+      "id": "item-13",
+      "name": "Chilli Chicken",
+      "category": "Chinese",
+      "price": 180,
+      "description": "Succulent boneless chicken bites tossed with crunchy bell peppers, diced onions, green chilies, and spicy dark sauce.",
+      "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=800&auto=format&fit=crop&q=80",
+      "isVeg": false,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 20
+    },
+    {
+      "id": "item-14",
+      "name": "South Indian Filter Coffee",
+      "category": "Beverages",
+      "price": 30,
+      "description": "Authentic strong filter coffee brewed using traditional chicory blend decoction, served frothy in a traditional brass dabarah and tumbler.",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "prepTimeMinutes": 5
+    },
+    {
+      "id": "item-15",
+      "name": "Badam Milk (Chilled)",
+      "category": "Beverages",
+      "price": 50,
+      "description": "Nourishing thick milk infused with crushed California almonds, cardamom, pistachios, and pure Kashmiri saffron strands.",
+      "image": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": false,
+      "isAvailable": true,
+      "prepTimeMinutes": 5
+    },
+    {
+      "id": "item-16",
+      "name": "Fresh Sweet Lime Soda",
+      "category": "Beverages",
+      "price": 40,
+      "description": "Refreshing fizzy soda hand-mixed with freshly squeezed lemons, mint leaves, and a touch of black salt and sugar syrup.",
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800&auto=format&fit=crop&q=80",
+      "isVeg": true,
+      "isBestseller": false,
+      "isAvailable": true,
+      "prepTimeMinutes": 5
+    }
+  ],
+  "orders": [
+    {
+      "id": "SLR-1870",
+      "items": [
+        {
+          "id": "item-1",
+          "name": "Masala Dosa",
+          "price": 60,
+          "quantity": 1,
+          "isVeg": true
+        }
+      ],
+      "customer": {
+        "name": "Test Customer",
+        "phone": "+91 9845012345",
+        "address": "Doomlight Circle, Kolar"
+      },
+      "subtotal": 60,
+      "deliveryFee": 25,
+      "tax": 3,
+      "discount": 0,
+      "totalAmount": 88,
+      "paymentMethod": "Cash on Delivery",
+      "status": "Pending",
+      "createdAt": "2026-10-12T14:35:48.668Z",
+      "estimatedDeliveryTimeMinutes": 39
+    },
+    {
+      "id": "SLR-1001",
+      "items": [
+        {
+          "id": "item-1",
+          "name": "Masala Dosa",
+          "price": 60,
+          "quantity": 2,
+          "isVeg": true
+        },
+        {
+          "id": "item-14",
+          "name": "South Indian Filter Coffee",
+          "price": 30,
+          "quantity": 2,
+          "isVeg": true
+        }
+      ],
+      "customer": {
+        "name": "Ramesh Gowda",
+        "phone": "+91 98450 12345",
+        "address": "Near Clock Tower, Main Bazar, Kolar",
+        "landmark": "Opposite Syndicate Bank",
+        "notes": "Please pack sambar separately"
+      },
+      "subtotal": 180,
+      "deliveryFee": 20,
+      "tax": 9,
+      "discount": 0,
+      "totalAmount": 209,
+      "paymentMethod": "Cash on Delivery",
+      "status": "Delivered",
+      "createdAt": "2026-10-12T11:35:34.477Z",
+      "estimatedDeliveryTimeMinutes": 25
+    },
+    {
+      "id": "SLR-1002",
+      "items": [
+        {
+          "id": "item-2",
+          "name": "Chicken Biryani",
+          "price": 180,
+          "quantity": 2,
+          "isVeg": false
+        },
+        {
+          "id": "item-13",
+          "name": "Chilli Chicken",
+          "price": 180,
+          "quantity": 1,
+          "isVeg": false
+        }
+      ],
+      "customer": {
+        "name": "Anitha Suresh",
+        "phone": "+91 94481 98765",
+        "address": "2nd Cross, Doomlight Circle, Gulpet, Kolar",
+        "landmark": "Near Government High School",
+        "notes": "Make it extra spicy"
+      },
+      "subtotal": 540,
+      "deliveryFee": 30,
+      "tax": 27,
+      "discount": 50,
+      "couponCode": "WELCOME50",
+      "totalAmount": 547,
+      "paymentMethod": "Cash on Delivery",
+      "status": "Preparing",
+      "createdAt": "2026-10-12T14:17:34.478Z",
+      "estimatedDeliveryTimeMinutes": 30
+    }
+  ],
+  "adminTokenSecret": "sri_lakshmi_admin_secure_key_2026"
+}

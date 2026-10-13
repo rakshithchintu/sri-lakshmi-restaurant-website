@@ -1,0 +1,6 @@
+{
+  "name": "Sri Lakshmi Family Restaurant - Kolar",
+  "description": "Authentic South Indian & North Indian dining and food delivery in Kolar, Karnataka. Order fresh dosas, biryanis, and traditional delicacies online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
